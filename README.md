@@ -1,6 +1,6 @@
 # Jogo da Forca
 
-![](./docs/ForcaGIF.gif)
+![](.docs/ForcaGIF.gif)
 
 ## Projeto
 
